@@ -61,3 +61,13 @@ elif a:
     print("You win!")
 else:
     print("You Loose!")
+    
+    
+    
+--------------------------------------------------x-------------------------------------------------x-----------------------------------------
+Output:
+Computer's Turn:Rock(r) Paper(p) Scissor(s) Pencil(pe)?
+Your Turn:Choose Rock(r) Paper(p) Scissor(s) Pencil(pe)?p
+Computer chose:r
+You chose:p     
+You Loose!    
