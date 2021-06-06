@@ -62,4 +62,18 @@ elif userPoints==compPoints:
     print("Match Draw.")
 else:
     print("You Loose..")
+    
+------------------------------------x------------------------------------x----------------------------------------x----------------------------------
+
+Output:
+    
+How many matches you want to play? 1
+Comp Turn :Snake(s) Water(w) Gun(g)?    
+Player's Turn :Snake(s) Water(w) Gun(g)?g
+Computer chose:w
+You chose:g     
+You Loose!      
+Your points:  0 
+Computer points:  1
+You Loose..
  
